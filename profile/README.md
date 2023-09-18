@@ -2,6 +2,6 @@
 
 # ÖzünÖyrənin git repositoriyasına xoş gəlmisiniz
 
-https://ozunoyren.com
-https://study.ozunoyren.com
-https://blog.ozunoyren.com
+* https://ozunoyren.com
+* https://study.ozunoyren.com
+* https://blog.ozunoyren.com
